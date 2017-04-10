@@ -19,6 +19,7 @@
         <activity android:name=".RelatorioActivity" />
         <activity android:name=".DespesasActivity" />
         <activity android:name=".CombustivelActivity" />
+        <activity android:name=".RevisaoActivity"></activity>
     </application>
 
 </manifest>
