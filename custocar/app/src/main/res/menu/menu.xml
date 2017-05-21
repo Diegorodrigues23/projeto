@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/idgasolina"
+        android:icon="@drawable/custocar"
+        android:title="Gasolina"
+        app:showAsAction="never"
+        />
+    <item
+        android:id="@+id/idimprevisto"
+        android:icon="@drawable/custocar"
+        android:title="imprevisto"
+        app:showAsAction="never"
+        />
+    <item
+        android:id="@+id/idteste"
+        android:icon="@drawable/custocar"
+        android:title="teste1"
+        app:showAsAction="always"
+        />
+</menu>
